@@ -1,4 +1,4 @@
-# The Nexus zkVM
+Nexus Testnet participation by Sergey # The Nexus zkVM
 
 <div align="left">
     <a href="https://github.com/nexus-xyz/nexus-zkvm/graphs/contributors">
